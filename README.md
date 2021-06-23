@@ -62,10 +62,11 @@ $ ./TBSG_search data_path query_path groundtruth_path save_path step
 
 ### parameters for building index
 
-Datasets   |  M    |   S    |    MP  
-Sift       |  50   |   100  |    0.53  
-Gist       |  70   |   200  |    0.515  
-Glove      |  80   |   300  |    0.53  
-Crawl      |  50   |   200  |    0.53  
+|Datasets   |  M  |  S  |   MP   |
+|:---------:|:---:|:---:|:------:|
+|Sift       |  50 | 100 |  0.53  |
+|Gist       |  70 | 200 |  0.515 |
+|Glove      |  80 | 300 |  0.53  |
+|Crawl      |  50 | 200 |  0.53  |
 
 
